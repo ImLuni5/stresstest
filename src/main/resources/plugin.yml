@@ -1,0 +1,4 @@
+name: Stresstest
+version: '${project.version}'
+main: stresstest.stresstest.Stresstest
+api-version: 1.19
